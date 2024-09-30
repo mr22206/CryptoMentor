@@ -1,4 +1,4 @@
-# Bot Discord - Informations sur les Cryptomonnaies
+# CryptoMentor - Informations sur les Cryptomonnaies
 
 Bienvenue sur le dépôt GitHub de **Bot Cryptomonnaies**. Ce projet est un bot Discord permettant de récupérer et afficher des informations détaillées sur les cryptomonnaies, y compris leur avatar (image) et la variation de prix, tout en facilitant l'organisation des utilisateurs dans des canaux spécifiques pour chaque cryptomonnaie.
 
